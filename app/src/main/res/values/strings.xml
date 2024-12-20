@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Filtrage Invites</string>
+    <string name="button_synthese_text">Synthèse</string>
+    <string name="button_recherche_text">Recherche invités</string>
+    <string name="category1">Catégorie bleue: </string>
+    <string name="category2">Catégorie rouge: </string>
+    <string name="category3">Catégorie argent: </string>
+    <string name="category4">Catégorie or: </string>
+    <string name="total">Total: </string>
+    <string name="synthese_title">Synthèse des invités</string>
+    <string name="invites_presents">Invités présents: </string>
+    <string name="recherche_title">Recherche des invités</string>
+    <string name="surname">Nom: </string>
+    <string name="name">Prénom: </string>
+    <string name="category">Catégorie: </string>
+    <string name="is_present">Présent: </string>
+    <string name="toggle_is_present">Valider/Invalider la présence</string>
+    <string name="person_detail_title">Détails de la personne</string>
+</resources>
